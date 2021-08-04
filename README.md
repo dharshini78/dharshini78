@@ -27,3 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharshini78&" alt="dharshini78" /></p>
 
+
+
+![Metrics](https://metrics.lecoq.io/dharshini78?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&gists=1&people=1&followup=1&isocalendar.duration=half-year&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&config.timezone=Asia%2FCalcutta&config.display=large)
+
