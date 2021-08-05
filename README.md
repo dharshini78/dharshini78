@@ -1,11 +1,11 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dharshini78&label=Profile%20views&color=0e75b6&style=flat" alt="dharshini78" /> </p>
+
 ![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
 
 <h1 align="center">Hi 👋, I'm DHARSHINI AKA [unearthed]</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6fb254a1-b5b9-4a24-a4bc-89d3bf39c7e0/def7sa3-acb83daf-f976-4d45-bd5e-ff76afb9880f.png/v1/fill/w_1024,h_1449,q_80,strp/f_a_w_n_by_dana_ulama_def7sa3-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0OSIsInBhdGgiOiJcL2ZcLzZmYjI1NGExLWI1YjktNGEyNC1hNGJjLTg5ZDNiZjM5YzdlMFwvZGVmN3NhMy1hY2I4M2RhZi1mOTc2LTRkNDUtYmQ1ZS1mZjc2YWZiOTg4MGYucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.839XQx_zR8jb1iNQr2aBLr5ezrvvVgYZAG21z2t_nI4">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dharshini78&label=Profile%20views&color=0e75b6&style=flat" alt="dharshini78" /> </p>
 
 - 🔭 I’m currently working on **DART-MAIN**
 
