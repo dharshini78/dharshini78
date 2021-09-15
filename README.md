@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharshini78&label=Profile%20views&color=0e75b6&style=flat" alt="dharshini78" /> </p>
 
-![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
+![footer](https://www.canva.com/design/DAEqDp8Gc6g/7NXvNI733kJNatNYV5y89g/view?_branch_match_id=937173649444544043)
 
 <h1 align="center">Hi 👋, I'm DHARSHINI AKA [unearthed]</h1>
 <h3 align="center">A passionate Software developer from India</h3>
