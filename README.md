@@ -1,5 +1,5 @@
 <p align ='center'> 
-  <img src="https://github.com/dharshini78/dharshini78/blob/main/My%20Post%20(1).png" data-canonical-src="https://github.com/dharshini78/dharshini78/blob/main/My%20Post%20(1).png" width="900" height="250" />
+  <img src="https://github.com/dharshini78/dharshini78/blob/main/My%20Post%20(1).png" data-canonical-src="https://github.com/dharshini78/dharshini78/blob/main/My%20Post%20(1).png" width="800" height="200" />
 </p>
 
 
