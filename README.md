@@ -1,3 +1,8 @@
+<p align ='center'> 
+  <img src="https://github.com/dharshini78/dharshini78/blob/main/My%20Post%20(1).png" data-canonical-src="https://github.com/dharshini78/dharshini78/blob/main/My%20Post%20(1).png" width="900" height="250" />
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharshini78&label=Profile%20views&color=0e75b6&style=flat" alt="dharshini78" /> </p>
 
 
